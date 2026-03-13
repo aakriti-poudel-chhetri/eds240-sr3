@@ -1,0 +1,37 @@
+---
+title: "End-of-course self reflection (SR #3)"
+author: "Aakriti Poudel"
+date: 2026-03-12
+---
+
+::: callout-note
+*For the full assignment description and grading specifications, please see the course website: <https://eds-240-data-viz.github.io/course-materials/assignments/SR3.html>*
+:::
+
+## Reflect on your progress
+
+-   [ ] **1. Since your mid-quarter self reflection (SR #2), have you improved any of your existing skills? Have you learned new ones?**
+
+    **Answer:** Yes, I have both improved existing skills and learned new ones. My ggplot2 skills have grown in areas I was already familiar with, particularly in customizing themes, working with color palettes rather than using defaults, and adjusting typography to improve readability. The second half of the course introduced topics that were entirely new to me, including using annotations to guide the reader's attention, designing infographics with Affinity, and building interactive visualizations using ggplot and Observable. I can now understand the difference between static and interactive visualizations and when each is more appropriate for communicating data.
+
+-   [ ] **2. Have you accomplished your learning goals for this quarter (that you set in SR #1, and potentially expanded upon or modified in SR #2)? If you did, how did you do it?**
+
+    **Answer:** Yes, I feel I have accomplished my learning goals. In SR #1, my main goal was to learn data visualization techniques and be able to create impactful visuals. By the end of this course, I feel comfortable with working with different kind of visualization technique. In SR #2, my learning shifted toward developing visualization as a communication skill specifically for environmental audiences. I feel this course gave me the tools to do exactly that. The strategies I set for myself in SR #1 helped me stay on track. I started assignments early, seeked help from instructor when needed, and continued group study sessions with my cohort.
+
+-   [ ] **3. What are you proudest of accomplishing in this course?**
+
+    **Answer:** I am proudest of the way in how I think about data visualization now. Before this course, I treated visualization as a routine step after analysis, something done quickly to present results. Now I approach it as a communication process where every decision, including the chart type, color, layout, and labels, serves a purpose. I am also proud of my final visualization project, where I applied these ideas to an environmental dataset that is meaningful to me. Working on the design, making intentional choices, and building something that tells a clear story was a new learning experience for me.
+
+-   [ ] **4. What are some transferable skills that you developed in this course? How might you apply them to other courses or deliverables within your graduate program (e.g. MEDS, MESM, etc.) or to jobs in the future?**
+
+    **Answer:** I learned several skills from this course that will be useful beyond it. Knowing how to match chart types to data characteristics will help in any MEDS course or project where I need to present results clearly. The ability to communicate data to non-technical audiences is directly relevant to my career goal of working with corporate sustainability teams or climate research organizations, where not everyone has a data background. My improved fluency with ggplot2 will benefit all future analysis and reporting work. The habit of iterating on a design and evaluating whether it communicates clearly is a way of thinking I expect to carry into everything I do with data.
+
+## (Optional) Share any feedback you might have about the class
+
+-   [ ] **1. What is one thing that you really liked about this course, and why? What is one thing you think could be improved about this course, and how?**
+
+    **Answer:** I really liked how the course covered both the technical and the design sides of visualization. Seeing well designed and poorly designed examples side by side helped me build visual judgment, which is something I could not have developed just by reading about it. One thing I think could be improved is the placement of this course in the MEDS curriculum. As I mentioned in SR #2, having this course in fall quarter would allow students to apply these principles immediately in their other courses, rather than learning them in the middle of the program.
+
+-   [ ] **2. Is there anything else you'd like the instructors to know about your experience in the course?**
+
+    **Answer:** This was one of the most enjoyable courses in the MEDS program for me. It was well structured and engaging without feeling overwhelming. I sometimes find technically heavy courses difficult to keep up with. This course had a good balance that made the material accessible while still being challenging. The self reflection assignments were also genuinely useful because they helped me notice my progress. Thank you for putting together such a thoughtful course.
